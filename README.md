@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Tobie%20Denby&fontSize=90)
 ## Hi there 👋
 
-🔭 I’m currently working on Nothing
+🔭 I’m currently working on nothing
 
 🌱 I’m currently learning Python
-
-🤔 I’m looking for help with [Will add later]
 
 📫 How to reach me: [Will add later]
 
@@ -13,7 +11,7 @@
 
 
 
-# Here are some things I somewhat know how to use!
+# Skills
 
 ###
 
