@@ -2,10 +2,15 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Nothing
+
 🌱 I’m currently learning Python
+
 🤔 I’m looking for help with [Will add later]
+
 📫 How to reach me: [Will add later]
+
 😄 Pronouns: He/Him
+
 
 
 # Here are some things I somewhat know how to use!
