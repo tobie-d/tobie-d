@@ -5,8 +5,6 @@
 
 🌱 I’m currently learning Python
 
-📫 How to reach me: [Will add later]
-
 😄 Pronouns: He/Him
 
 
