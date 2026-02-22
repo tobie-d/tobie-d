@@ -2,7 +2,9 @@
 ## Hello
 
 I’m currently working on random projects I havent uploaded to github
+
 I’m currently learning Python, C and SQL
+
 Pronouns: He/Him
 
 # Skills
