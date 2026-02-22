@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Tobie&fontSize=90)
-## Hi there 👋
+## Hello
 
-🔭 I’m currently working on nothing
-
-🌱 I’m currently learning Python
-
-😄 Pronouns: He/Him
-
-
+I’m currently working on random projects I havent uploaded to github
+I’m currently learning Python, C and SQL
+Pronouns: He/Him
 
 # Skills
 
