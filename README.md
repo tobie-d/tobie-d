@@ -26,7 +26,7 @@ A CLI contact book using Python and SQLite.
 
 Learning Java before moving on to C/C++.
 
-I'm interested in eventually making some small projects of some sort like:
+I'm interested in eventually making some small projects of some sort, like:
 - a networked project
 - a 2D multiplayer game
 - a Minecraft plugin/mod
@@ -51,8 +51,7 @@ Currently hosting:
 
 [Spotify](https://open.spotify.com/user/31cbzcspjru4a3olr2gqjoy4qapi)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobie-d&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobie-d&layout=compact" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tobie-d.tobie-d" />
