@@ -8,7 +8,6 @@ Currently learning:
 - Java
 - Python
 - Linux
-- SQL
 - Git
 
 I mainly use Windows 11, but I dual boot fedora and i have tried other linux distros, 
