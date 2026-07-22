@@ -2,7 +2,7 @@
 # Hey, I'm Tobie
 
 
-I'm a student interested in software engineering, systems, networking and cybersecurity.
+I'm a student from England interested in software engineering, systems, networking and cybersecurity.
 
 Currently learning:
 - Java
