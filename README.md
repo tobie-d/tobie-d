@@ -10,7 +10,7 @@ Currently learning:
 - Linux
 - Git
 
-I mainly use Windows 11, but I dual boot fedora and i have tried other linux distros, 
+I mainly use Windows 11, but I dual boot Fedora and i have tried other linux distros, 
 for example Arch Linux. I found it quite boring though and i'm interested in trying NixOS.
 
 ## Projects
@@ -25,7 +25,7 @@ A CLI contact book using Python and SQLite.
 
 Learning Java before moving on to C/C++.
 
-I'm interested in eventually making some small projects of some sort, like:
+Some projects I'd like to try making:
 - a networked project
 - a 2D multiplayer game
 - a Minecraft plugin/mod
