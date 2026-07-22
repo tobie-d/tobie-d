@@ -44,15 +44,14 @@ Currently hosting:
 - Other self-hosted services
 
 ## Links
+<div align="center">
 
-[GitHub](https://github.com/tobie-d)
-
-[Youtube](https://www.youtube.com/@tobie_iscool) 
-
+[GitHub](https://github.com/tobie-d) &nbsp;&nbsp;&nbsp;
+[YouTube](https://www.youtube.com/@tobie_iscool) &nbsp;&nbsp;&nbsp;
 [Spotify](https://open.spotify.com/user/31cbzcspjru4a3olr2gqjoy4qapi)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobie-d&layout=compact" />
+<br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tobie-d.tobie-d" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=tobie-d.tobie-d" />
+
 </div>
