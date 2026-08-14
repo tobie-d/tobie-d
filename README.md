@@ -10,9 +10,7 @@ Currently learning:
 - Linux
 - Git
 
-I mainly use Windows 11, but I dual boot Fedora and i have tried other linux distros, 
-for example Arch Linux. I found it quite boring though and i'm interested in trying NixOS.
-
+I mainly use Windows 11 but have tried linux before.
 ## Projects
 
 ### [Bin2Dec](https://github.com/tobie-d/Bin2Dec)
