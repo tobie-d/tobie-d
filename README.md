@@ -5,6 +5,9 @@ I'm a student from England interested in software engineering, systems, networki
 
 ## Projects
 
+### [cmdgame](https://github.com/tobie-d/cmdgame)
+My second Java project. A basic RPG command line game which I am using to learn Java more.
+
 ### [Bin2Dec](https://github.com/tobie-d/Bin2Dec)
 A small Python project for converting binary numbers to decimal.
 
