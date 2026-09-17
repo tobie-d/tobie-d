@@ -3,6 +3,10 @@
 
 I'm a student from England interested in software engineering, systems, networking and cybersecurity.
 
+## Languages
+* Python (learning)
+* Java (also learning)
+
 ## Projects
 
 ### [cmdgame](https://github.com/tobie-d/cmdgame)
